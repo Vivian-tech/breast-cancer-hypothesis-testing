@@ -21,4 +21,5 @@
 - Feature plot (worst radius #1)
 - Confusion matrix (41/1 perfect)
 
-**Colab:** [paste-your-colab-link]
+**Colab:** https://colab.research.google.com/drive/1DT6gCPLNyTH-8saeNDO3VpfpVg4G_EQq?usp=sharing
+
